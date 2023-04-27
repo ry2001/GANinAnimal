@@ -1,6 +1,8 @@
 # GAN In Animal
+
 ## SUTD DAI 60.001 Applied Deep Learning project
-Refer to the original repo for the original implementation, this repo will be used to deploy the model.
+
+Refer to the original repo for the original implementation [here](https://github.com/HASSRaccoon/ADL-Pokify-GAN), this repo will be used to deploy the model.
 
 ![Image](./imgs/ganina.png)
 The proposed Generative Adversarial Networks (GAN) is a conditional Generative Adversarial Networks (cGAN) based on CycleGAN. The main difference is that we will be passing the labels such that the discriminator can compare the generated pokemon with a real pokemon that belongs to the same type of animal.
