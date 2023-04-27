@@ -38,7 +38,9 @@ st.title("GAN in Animal")
 
 st.write('''
         This is a GAN model that can transfer the style of a Pokemon to a real animal.
+
         The model works better with real animal images with white background.
+        
         Note: The result Pokemon image's quality is not promised to be good. Since this is a short project, model is only trained for 200 epochs.
          ''')
 

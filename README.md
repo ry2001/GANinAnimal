@@ -11,6 +11,12 @@ We have also used StyleGAN2 as a baseline to compare with the GAN that we propos
 
 ![Image](./imgs/comparison.png)
 
+## Trying out our Model
+
+We have deployed the model, and you can access from this [link](https://ry2001-ganinanimal-main-224dd6.streamlit.app/). The input image is recommended to use a real animal with white background.
+
+Do note that this model is done with a relatively short period, and we have only trained for 200 epochs. Therefore, the results might not be good.
+
 ## Getting Started
 
 ### Links to download pretrained-model and datasets
